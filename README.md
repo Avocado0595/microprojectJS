@@ -8,7 +8,8 @@ Viết 1 chương trình console bằng JS mô phỏng 1 chương trình quản 
 5. Chức năng tìm kiếm sinh viên theo ký tự có trong tên: vd: search: "to" => kết quả có các sinh viên: "Tom", "Tong",... (*)
 6. Chức năng sắp xếp sinh viên theo thứ tự từ điểm cao đến điểm thấp (*)
 7. Chức năng lọc sinh viên theo quê quán (*)
-8. Chức năng đăng nhập bằng tài khoản sinh viên và tài khoản giảng viên. Tài khoản sinh viên thì chỉ xem, tìm kiếm, sắp xếp. Tài khoản giảng viên thì có thể thực hiện tất cả chức năng. (**) (chức năng có thể có hoặc không) =)))
+8. Bổ sung chức năng kiểm tra xem id lúc thêm sinh viên có bị trùng hay không. Nếu trùng thì phải nhập lại. (*)
+9. Chức năng đăng nhập bằng tài khoản sinh viên và tài khoản giảng viên. Tài khoản sinh viên thì chỉ xem, tìm kiếm, sắp xếp. Tài khoản giảng viên thì có thể thực hiện tất cả chức năng. (**) (chức năng có thể có hoặc không) =)))
 
 
 Quyền trợ giúp số 1:
