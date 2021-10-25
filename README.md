@@ -12,6 +12,13 @@ Viết 1 chương trình console bằng JS mô phỏng 1 chương trình quản 
 9. Chức năng đăng nhập bằng tài khoản sinh viên và tài khoản giảng viên. Tài khoản sinh viên thì chỉ xem, tìm kiếm, sắp xếp. Tài khoản giảng viên thì có thể thực hiện tất cả chức năng. (**) (chức năng có thể có hoặc không) =)))
 
 
+Ghi chú:
++ mọi người có thể dùng visual studio code (cài nodejs nhé), hoặc dùng trang https://replit.com/ (trang này dùng require module nhé)
++ nếu dùng replit thì có nút package để add thư viện
++ Chạy trên máy thì dùng nodejs:
+    - npm init -y để tạo 1 package.json
+    - npm install prompt-sync để cài prompt-sync
+
 Quyền trợ giúp số 1:
 - dùng thư viện prompt-sync để nhập xuất trong console
 - dùng thư viện fs để đọc ghi file (dùng readFileAsync, writeFileAsync)
