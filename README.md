@@ -9,3 +9,8 @@ Viết 1 chương trình console bằng JS mô phỏng 1 chương trình quản 
 6. Chức năng sắp xếp sinh viên theo thứ tự từ điểm cao đến điểm thấp (*)
 7. Chức năng lọc sinh viên theo quê quán (*)
 8. Chức năng đăng nhập bằng tài khoản sinh viên và tài khoản giảng viên. Tài khoản sinh viên thì chỉ xem, tìm kiếm, sắp xếp. Tài khoản giảng viên thì có thể thực hiện tất cả chức năng. (**) (chức năng có thể có hoặc không) =)))
+
+
+Quyền trợ giúp số 1:
+- dùng thư viện prompt-sync để nhập xuất trong console
+- dùng thư viện fs để đọc ghi file (dùng readFileAsync, writeFileAsync)
