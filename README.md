@@ -22,3 +22,8 @@ Ghi chú:
 Quyền trợ giúp số 1:
 - dùng thư viện prompt-sync để nhập xuất trong console
 - dùng thư viện fs để đọc ghi file (dùng readFileAsync, writeFileAsync)
+
+Quyền trợ giúp số 2:
+- Các bạn vào branch hint01, clone code cấu trúc về: trong đó có sẵn các hàm, các bạn chỉ cần định nghĩa cho hàm đó, và sử dụng nó vào hàm main trong code
+- khi clone về sẽ có sẵn package.json, mn chỉ cần chạy lệnh: npm install (sẽ tự cài prompt-sync)
+- Lưu ý: file cấu trúc này chỉ là bản sơ lược các hàm, mn có thể thêm, sửa xóa tùy ý nhé!
