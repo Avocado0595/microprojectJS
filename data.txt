@@ -1,2 +1,4 @@
 sv12,tran van a,2001,tra vinh,9.5
 sv11,nguyen thi b,2000,vinh long,8.4
+sv33,luong van quan,2000,hcm,7.7
+sv009,le thi C,2001,ha noi,6.6
